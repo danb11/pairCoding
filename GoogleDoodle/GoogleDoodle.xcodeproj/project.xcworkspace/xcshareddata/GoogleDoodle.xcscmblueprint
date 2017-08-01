@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6E146EFD4C13E9AA7029023B1A7D77751347F733",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E57B9A15FB9BCB471850BEA87BEB449B7ACE146A" : 9223372036854775807,
+    "6E146EFD4C13E9AA7029023B1A7D77751347F733" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29ACD78D-6873-4CED-AF3A-4A0CD4686412",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E57B9A15FB9BCB471850BEA87BEB449B7ACE146A" : "",
+    "6E146EFD4C13E9AA7029023B1A7D77751347F733" : "pairCoding\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GoogleDoodle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GoogleDoodle\/GoogleDoodle.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danb11\/pairCoding",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E146EFD4C13E9AA7029023B1A7D77751347F733"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danb11\/teamCoding.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E57B9A15FB9BCB471850BEA87BEB449B7ACE146A"
+    }
+  ]
+}

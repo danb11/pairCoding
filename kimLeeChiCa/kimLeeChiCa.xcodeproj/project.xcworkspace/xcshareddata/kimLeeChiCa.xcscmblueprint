@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6E146EFD4C13E9AA7029023B1A7D77751347F733",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E57B9A15FB9BCB471850BEA87BEB449B7ACE146A" : 9223372036854775807,
+    "6E146EFD4C13E9AA7029023B1A7D77751347F733" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E084B2AC-41E1-473D-8D3E-4B4210DCEBA3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E57B9A15FB9BCB471850BEA87BEB449B7ACE146A" : "",
+    "6E146EFD4C13E9AA7029023B1A7D77751347F733" : "pairCoding\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "kimLeeChiCa",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "kimLeeChiCa\/kimLeeChiCa.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danb11\/pairCoding",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E146EFD4C13E9AA7029023B1A7D77751347F733"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danb11\/teamCoding.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E57B9A15FB9BCB471850BEA87BEB449B7ACE146A"
+    }
+  ]
+}
